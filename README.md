@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akash Majumdar
+- 👋 Hi, I’m Akash Majumdar
 - 👀 I’m interested in techsacks of Cloud & DevOps
 - 🌱 I’m currently learning the terminologies cum Services of Azure Cloud and also the DevOps culture 
 - 💞️ I’m looking to collaborate on Cloud and DevOps Technologies for better lerning purposes
